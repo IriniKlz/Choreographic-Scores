@@ -34,7 +34,7 @@ Here follows [a selection of sketches](https://editor.p5js.org/eri.kalaitzidi/co
 - [09-random-walk-w-annotations](https://editor.p5js.org/eri.kalaitzidi/sketches/OkOpxL-c_)
 - [10-forsythe-tribute](https://editor.p5js.org/eri.kalaitzidi/sketches/UlsdZ3GZE)
 - [11-body-brush-trails](https://editor.p5js.org/eri.kalaitzidi/sketches/uansryzyM)
-- [12-body-text-trails](https://editor.p5js.org/eri.kalaitzidi/sketches/uansryzyM)
+- [12-body-text-trails](https://editor.p5js.org/eri.kalaitzidi/sketches/52O9p3tzO)
 
 ### Possible ways to tweak the existing code
 
