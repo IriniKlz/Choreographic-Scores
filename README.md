@@ -79,5 +79,11 @@ Pros: Modern and extensible code editor, huge community, extensions for many pro
 
 Cons: Steeper learning curve, need to install extensions for each language
 
+### Broader references of dance x tech platforms
 
+- [Motion Bank](https://motionbank.org)
+- [Choreographic Coding Labs](https://choreographiccoding.org/#/)
+- [Movement Lab](https://movement.barnard.edu)
+- [MIT Media Lab](https://www.media.mit.edu)
+- [ZKM Center for Art and Media Karlsruhe (Tan/Performance)](https://zkm.de/en/keytopic/tanz-performance)
 
