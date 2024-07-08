@@ -36,6 +36,19 @@ Here follows [a selection of sketches](https://editor.p5js.org/eri.kalaitzidi/co
 - [11-body-brush-trails](https://editor.p5js.org/eri.kalaitzidi/sketches/uansryzyM)
 - [12-body-text-trails](https://editor.p5js.org/eri.kalaitzidi/sketches/uansryzyM)
 
+### Possible ways to tweak the existing code
+
+Keep in mind that you are creating some visual scores, so the idea is to play with any visual aspect of them. Some options include:
+
+- changing the colour of the background, the strokes and the fill (you can use [Adobe Color Wheel](https://color.adobe.com/create/color-wheel))
+- changing shapes (e.g. ellipse(), rect(), line() and other 2D primitives that can be found in the [p5xjs reference page](https://p5js.org/reference/))
+- changing numbers and seeing how they affect the output (keep the original numbers on the side as a comment, so that you can reverse the changes you make). These numbers could relate to:
+  - scale,
+  - position,
+  - speed, e.t.c.
+- adding randomness to some parameters (through the [random()](https://p5js.org/reference/p5/random/) or the [noise()](https://p5js.org/reference/p5/noise/) function)
+- ...
+
 ### p5xjs resources
 
 Basics:
