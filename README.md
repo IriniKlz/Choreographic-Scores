@@ -3,7 +3,7 @@ This repo hosts code examples for Sadler's Wells Artist-Led Session:
 
 [Choreographic Scores | Generative Drawings](https://www.sadlerswells.com/whats-on/irini-kalaitzidi-artist-led-session-in-person/)
 
-led by Irini Kalaitzidi
+by Irini Kalaitzidi
 
 July 2024
 
